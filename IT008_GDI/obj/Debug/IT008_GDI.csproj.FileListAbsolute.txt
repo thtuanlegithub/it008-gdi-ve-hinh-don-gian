@@ -1,0 +1,11 @@
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\bin\Debug\IT008_GDI.exe.config
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\bin\Debug\IT008_GDI.exe
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\bin\Debug\IT008_GDI.pdb
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.Form1.resources
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.Properties.Resources.resources
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.exe
+C:\Users\thanh\source\repos\IT008_GDI\IT008_GDI\obj\Debug\IT008_GDI.pdb
